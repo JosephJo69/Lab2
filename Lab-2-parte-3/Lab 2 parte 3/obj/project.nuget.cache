@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F1ObhNlrNiw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\usuario\\OneDrive\\Escritorio\\CSharp\\Lab 2 parte 3\\Lab 2 parte 3\\Lab 2 parte 3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\8.0.13\\microsoft.netcore.app.host.win-x86.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
